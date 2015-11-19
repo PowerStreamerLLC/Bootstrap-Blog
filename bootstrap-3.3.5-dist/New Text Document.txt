@@ -1,0 +1,12 @@
+<!DOCTYPE html><html>
+<head>
+<link rel="stylesheet" href="bootstrap-3.3.5-dist/css">
+<script src="bootstrap-3.3.5-dist/js></script>
+Timothy Hosey's Random Blog</head>
+<title>A Blog for Personal Reflection</title>
+<body>
+
+
+
+</body>
+</html>
